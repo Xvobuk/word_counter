@@ -12,6 +12,8 @@
 
 Вы получите на вывод два файла: один выдаёт топ-100 не отчищенных от местоимений, междометий и множества союзов результат, а второй уже выдаст статистику поинтереснее.
 
+Адаптировано только для русского языка на данный момент.
+
 ____________________________________________
 
 To run the file, Python must be installed.
@@ -27,3 +29,5 @@ Place the result.json file in the same folder as the program file.
 Run the program.
 
 You will receive two output files: one will provide the top-100 results without filtering out pronouns, interjections, and many conjunctions, while the second will give a more interesting statistic.
+
+At this point works only with Russian language.
