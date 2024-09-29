@@ -4,7 +4,7 @@
 
 *pip install pandas*
 
-Скачайте вашу переписку в Телеграме через экспорт выбрав метод сохранения данных в виде JSON-объекта.
+Скачайте вашу переписку в Телеграме через экспорт выбрав метод сохранения данных в виде JSON-объекта, убрав все галочки. То есть скачать надо безф отографий, голосовых сообщений и так далее. Просто текст.
 
 Файл result.json поместите в одну папку с файлом программы.
 
@@ -20,7 +20,7 @@ Install the pandas library:
 
 *pip install pandas*
 
-Download your Telegram chat by exporting the data in the form of a JSON object.
+Download your Telegram chat by exporting the data in the form of a JSON object, ensuring that all checkboxes are unchecked. This means downloading only text without photos, voice messages, and so on.
 
 Place the result.json file in the same folder as the program file.
 
